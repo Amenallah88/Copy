@@ -24,7 +24,7 @@
 <dependency>
     <groupId>org.sonatype.nexus</groupId>
     <artifactId>nexus-repository</artifactId>
-    <version>3.15.2-01</version>
+    <version>3.14.0-04</version>
     <scope>provided</scope>
 </dependency>
 <dependency>
